@@ -1,0 +1,3 @@
+/home/sophia/Desktop/sp_vision_tutorial_26/lecture2/build/CMakeFiles/main.dir
+/home/sophia/Desktop/sp_vision_tutorial_26/lecture2/build/CMakeFiles/edit_cache.dir
+/home/sophia/Desktop/sp_vision_tutorial_26/lecture2/build/CMakeFiles/rebuild_cache.dir
